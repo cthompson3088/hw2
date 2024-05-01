@@ -6,6 +6,7 @@
 # To run this file, run the following command at your terminal prompt:
 # `rails runner kmdb.rb`
 
+
 # Requirements/assumptions
 #
 # - There will only be three movies in the database – the three films
